@@ -1,0 +1,42 @@
+ tr, td{  
+                padding: 3px;  
+           }  
+           li{  
+                font-family: Courier New;  
+                font-size: medium;  
+           }  
+           body{  
+                background-image: url("https://i.pinimg.com/originals/33/d5/f1/33d5f1c660d982c5e7b678e96306097d.jpg");  
+                background-repeat: no-repeat;  
+                background-attachment: fixed;  
+                background-size: cover;  
+           }  
+           p{  
+                padding: 15px;  
+                font-family: Courier New;  
+                font-size: 17px;  
+           }  
+           h3{  
+                font-weight: bold;  
+                font-family: Lucida Console;  
+                font-size: 20px;  
+                color: rgb(113, 103, 247);  
+                border-style: double;  
+                border: 2px solid rgb(71, 187, 255);  
+                margin: 20px;  
+           }  
+           h4{  
+                text-align: center;  
+                font-weight: bold;  
+                font-family: Courier New;  
+                font-size: 17px;  
+           }  
+           h5{  
+                color: white;  
+                text-align: center;  
+                font-weight: normal;  
+                font-family: Courier New;  
+                font-size: 17px;  
+                letter-spacing: 3px;  
+                word-spacing: 5px;       
+           }  
